@@ -1,0 +1,34 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "🖥️ Servidor",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_server.py",
+            "console": "integratedTerminal",
+            "args": ["--port", "8765"]
+        },
+        {
+            "name": "💻 Cliente",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_client.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "💻 Cliente 2",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_client.py",
+            "console": "integratedTerminal"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "🚀 Servidor + Cliente",
+            "configurations": ["🖥️ Servidor", "💻 Cliente"],
+            "stopAll": true
+        }
+    ]
+}

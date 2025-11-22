@@ -1,0 +1,84 @@
+2025-11-21 19:48:38 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 19:48:38 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:23:29 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 20:23:29 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:23:50 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 20:23:50 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:25:15 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 20:25:15 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:26:08 - INFO - 🔗 Usuario conectado: david desde 127.0.0.1
+2025-11-21 20:26:19 - INFO - 🏠 Sala creada: '01' por david
+2025-11-21 20:26:27 - INFO - 🏠 Sala creada: 'hola' por david
+2025-11-21 20:27:14 - INFO - 🔌 Usuario desconectado: david
+2025-11-21 20:27:14 - INFO - 🔌 Usuario desconectado: david
+2025-11-21 20:29:23 - INFO - 🔗 Usuario conectado: juan desde 127.0.0.1
+2025-11-21 20:29:30 - INFO - 🔌 Usuario desconectado: juan
+2025-11-21 20:29:30 - INFO - 🔌 Usuario desconectado: juan
+2025-11-21 20:30:25 - INFO - 🔗 Usuario conectado: David desde 127.0.0.1
+2025-11-21 20:31:00 - INFO - 🔗 Usuario conectado: Andrés desde 127.0.0.1
+2025-11-21 20:38:35 - INFO - 🔌 Usuario desconectado: Andrés
+2025-11-21 20:38:56 - INFO - 🔌 Usuario desconectado: David
+2025-11-21 20:39:20 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 20:39:20 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:39:42 - INFO - 🔗 Usuario conectado: David desde 127.0.0.1
+2025-11-21 20:39:50 - INFO - 🏠 Sala creada: 'sala 1' por David
+2025-11-21 20:40:30 - INFO - 🔗 Usuario conectado: Andres desde 127.0.0.1
+2025-11-21 20:41:00 - INFO - 🏠 Sala creada: 'sala2' por Andres
+2025-11-21 20:43:08 - INFO - 🔗 Usuario conectado: Daniel desde 127.0.0.1
+2025-11-21 20:47:24 - INFO - 🔌 Usuario desconectado: Daniel
+2025-11-21 20:47:26 - INFO - 🔌 Usuario desconectado: Andres
+2025-11-21 20:47:30 - INFO - 🔌 Usuario desconectado: David
+2025-11-21 20:51:04 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 20:51:04 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:51:36 - INFO - 🔗 Usuario conectado: David desde 127.0.0.1
+2025-11-21 20:51:42 - INFO - 🏠 Sala creada: 'sala 1' por David
+2025-11-21 20:51:42 - INFO - ➡️ David se unió a 'sala 1'
+2025-11-21 20:52:00 - INFO - 🔗 Usuario conectado: Andrés desde 127.0.0.1
+2025-11-21 20:52:02 - INFO - ➡️ Andrés se unió a 'sala 1'
+2025-11-21 20:53:47 - INFO - 🔗 Usuario conectado: Mariana desde 127.0.0.1
+2025-11-21 20:53:50 - INFO - ➡️ Mariana se unió a 'sala 1'
+2025-11-21 20:57:10 - INFO - ⬅️ David abandonó 'sala 1'
+2025-11-21 20:57:10 - INFO - 🔌 Usuario desconectado: David
+2025-11-21 20:57:10 - INFO - 🔌 Usuario desconectado: David
+2025-11-21 20:57:12 - INFO - ⬅️ Andrés abandonó 'sala 1'
+2025-11-21 20:57:12 - INFO - 🔌 Usuario desconectado: Andrés
+2025-11-21 20:57:12 - INFO - 🔌 Usuario desconectado: Andrés
+2025-11-21 20:57:14 - INFO - ⬅️ Mariana abandonó 'sala 1'
+2025-11-21 20:57:14 - INFO - 🔌 Usuario desconectado: Mariana
+2025-11-21 20:57:14 - INFO - 🔌 Usuario desconectado: Mariana
+2025-11-21 20:58:24 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 20:58:24 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 20:58:40 - INFO - 🔗 Usuario conectado: David desde 127.0.0.1
+2025-11-21 20:58:49 - INFO - 🏠 Sala creada: 'sala 1' por David
+2025-11-21 20:58:49 - INFO - ➡️ David se unió a 'sala 1'
+2025-11-21 20:59:03 - INFO - 🔗 Usuario conectado: Daniel desde 127.0.0.1
+2025-11-21 20:59:11 - INFO - ➡️ Daniel se unió a 'sala 1'
+2025-11-21 20:59:40 - INFO - 🔗 Usuario conectado: Mariana desde 127.0.0.1
+2025-11-21 20:59:44 - INFO - ➡️ Mariana se unió a 'sala 1'
+2025-11-21 21:03:04 - INFO - ⬅️ Mariana abandonó 'sala 1'
+2025-11-21 21:03:04 - INFO - 🔌 Usuario desconectado: Mariana
+2025-11-21 21:03:39 - INFO - ⬅️ Daniel abandonó 'sala 1'
+2025-11-21 21:03:39 - INFO - 🔌 Usuario desconectado: Daniel
+2025-11-21 21:03:39 - INFO - 🔌 Usuario desconectado: Daniel
+2025-11-21 21:03:41 - INFO - ⬅️ David abandonó 'sala 1'
+2025-11-21 21:03:41 - INFO - 🔌 Usuario desconectado: David
+2025-11-21 21:03:41 - INFO - 🔌 Usuario desconectado: David
+2025-11-21 21:04:00 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-21 21:04:00 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-21 21:04:40 - INFO - 🔗 Usuario conectado: David desde 127.0.0.1
+2025-11-21 21:04:45 - INFO - 🏠 Sala creada: 'sala 1' por David
+2025-11-21 21:04:45 - INFO - ➡️ David se unió a 'sala 1'
+2025-11-21 21:05:00 - INFO - 🔗 Usuario conectado: Daniel desde 127.0.0.1
+2025-11-21 21:05:14 - INFO - 🔗 Usuario conectado: Camila desde 127.0.0.1
+2025-11-21 21:05:18 - INFO - ➡️ Daniel se unió a 'sala 1'
+2025-11-21 21:05:23 - INFO - ➡️ Camila se unió a 'sala 1'
+2025-11-21 21:05:30 - INFO - ⬅️ Camila abandonó 'sala 1'
+2025-11-21 21:05:32 - INFO - ➡️ Camila se unió a 'sala 1'
+2025-11-21 21:05:34 - INFO - ⬅️ Camila abandonó 'sala 1'
+2025-11-21 21:05:34 - INFO - 🔌 Usuario desconectado: Camila
+2025-11-21 21:05:34 - INFO - 🔌 Usuario desconectado: Camila
+2025-11-21 21:05:41 - INFO - ⬅️ Daniel abandonó 'sala 1'
+2025-11-21 21:05:41 - INFO - 🔌 Usuario desconectado: Daniel
+2025-11-21 21:05:41 - INFO - 🔌 Usuario desconectado: Daniel
+2025-11-21 21:11:40 - INFO - ⬅️ David abandonó 'sala 1'
+2025-11-21 21:11:40 - INFO - 🔌 Usuario desconectado: David
