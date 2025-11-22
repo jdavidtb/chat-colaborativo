@@ -82,3 +82,35 @@
 2025-11-21 21:05:41 - INFO - 🔌 Usuario desconectado: Daniel
 2025-11-21 21:11:40 - INFO - ⬅️ David abandonó 'sala 1'
 2025-11-21 21:11:40 - INFO - 🔌 Usuario desconectado: David
+2025-11-22 07:35:02 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-22 07:35:02 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-22 07:44:03 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-22 07:44:03 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-22 07:46:09 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-22 07:46:09 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-22 07:46:31 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-22 07:46:31 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-22 07:48:56 - INFO - 🔗 Usuario conectado: David desde 127.0.0.1
+2025-11-22 07:49:04 - INFO - 🏠 Sala creada: 'sala 1' por David
+2025-11-22 07:49:04 - INFO - ➡️ David se unió a 'sala 1'
+2025-11-22 07:50:48 - INFO - 🔗 Usuario conectado: Carlos desde 10.253.52.26
+2025-11-22 07:50:55 - INFO - ➡️ Carlos se unió a 'sala 1'
+2025-11-22 07:54:39 - INFO - ⬅️ Carlos abandonó 'sala 1'
+2025-11-22 07:54:45 - INFO - 🔌 Usuario desconectado: Carlos
+2025-11-22 07:54:54 - INFO - 🔗 Usuario conectado: Juan desde 10.253.49.170
+2025-11-22 07:54:56 - INFO - 🔗 Usuario conectado: Carlos desde 10.253.52.26
+2025-11-22 07:54:59 - INFO - ➡️ Carlos se unió a 'sala 1'
+2025-11-22 07:55:00 - INFO - ➡️ Juan se unió a 'sala 1'
+2025-11-22 07:57:29 - INFO - ⬅️ Carlos abandonó 'sala 1'
+2025-11-22 07:57:29 - INFO - 🔌 Usuario desconectado: Carlos
+2025-11-22 08:07:03 - INFO - ⬅️ Juan abandonó 'sala 1'
+2025-11-22 08:07:03 - INFO - 🔌 Usuario desconectado: Juan
+2025-11-22 08:07:33 - INFO - 🔗 Usuario conectado: Matias desde 10.253.49.170
+2025-11-22 08:07:36 - INFO - 🔌 Usuario desconectado: Matias
+2025-11-22 08:20:34 - INFO - ⬅️ David abandonó 'sala 1'
+2025-11-22 08:20:34 - INFO - 🔌 Usuario desconectado: David
+2025-11-22 08:20:34 - INFO - 🔌 Usuario desconectado: David
+2025-11-22 08:33:53 - INFO - 🏠 Sala creada: 'General' por Sistema
+2025-11-22 08:33:53 - INFO - Servidor escuchando en 0.0.0.0:8765
+2025-11-22 08:34:38 - INFO - 🔗 Usuario conectado: ana desde 10.253.49.170
+2025-11-22 08:43:13 - INFO - 🔌 Usuario desconectado: ana
